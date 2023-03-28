@@ -10,6 +10,14 @@ end
 10.times do
     name = Faker::Superhero.power
     description = Faker::Marketing.buzzwords
+    Power.create(name:name, description:description)
 end
+# 10.times do
+# HeroPower.create!(
+#     strength: Faker::Base.sample(['Strong', 'Weak', 'Average']),
+#     hero:hero,
+#     power: power
+#   )
+# end
 
 puts Faker::Lorem.multibyte

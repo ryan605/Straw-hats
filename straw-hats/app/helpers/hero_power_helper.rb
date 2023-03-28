@@ -1,0 +1,2 @@
+module HeroPowerHelper
+end
