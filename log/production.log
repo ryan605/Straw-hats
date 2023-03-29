@@ -6,3 +6,6 @@ I, [2023-03-29T09:39:24.653258 #29806]  INFO -- : [bfb0495a-a6f1-437d-905f-aeaa2
 F, [2023-03-29T09:39:24.654421 #29806] FATAL -- : [bfb0495a-a6f1-437d-905f-aeaa2535419b]   
 [bfb0495a-a6f1-437d-905f-aeaa2535419b] ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
 [bfb0495a-a6f1-437d-905f-aeaa2535419b]   
+I, [2023-03-29T09:47:58.530540 #30768]  INFO -- : Migrating to CreateHeros (20230326203402)
+I, [2023-03-29T09:47:58.817823 #30768]  INFO -- : Migrating to CreatePowers (20230326203443)
+I, [2023-03-29T09:47:58.839827 #30768]  INFO -- : Migrating to CreateHeroPowers (20230326210856)
